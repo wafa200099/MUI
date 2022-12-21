@@ -1,2 +1,2 @@
  Responsive  Material UI 5 (MUI) React practicing application
- ![image](https://user-images.githubusercontent.com/79041670/208950683-12895f43-e321-45d8-a451-0f7e5e93bc29.png)
+![image](https://user-images.githubusercontent.com/79041670/208970120-9c9cf235-52f4-4215-abbe-3f0710684cd5.png)
