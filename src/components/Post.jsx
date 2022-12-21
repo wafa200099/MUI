@@ -24,7 +24,7 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="John Doe"
+        title="wafa al omour"
         subheader="September 14, 2022"
       />
       <CardMedia
